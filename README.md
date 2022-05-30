@@ -1,6 +1,6 @@
 ## Excel To Json
 
-This project is developed in Scala Programming Language to convert Excel to Json.
+This template is developed in Scala Programming Language to convert Excel to Json.
 
 ## Commands
 
